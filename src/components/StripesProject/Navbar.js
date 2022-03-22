@@ -27,17 +27,17 @@ export default function Navbar() {
         <ul className="nav-links ">
           <li>
             <button onMouseOver={displaySubmenu} className="link-btn">
-              Products
+              products
             </button>
           </li>
           <li>
             <button onMouseOver={displaySubmenu} className="link-btn">
-              Developers
+              developers
             </button>
           </li>
           <li>
             <button onMouseOver={displaySubmenu} className="link-btn">
-              Company
+              company
             </button>
           </li>
         </ul>
